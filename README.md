@@ -12,9 +12,9 @@ Please see `README_template.md` for more detailed information.
 
 Structure is as follows:
 
-`data` to store data
-`docs` to output HTML files to
-`images` contains the required images for the Project Light template
-`img` contains default images for the materials
-`templates` contains the template required for rendering in the style of UoC
-`trainer_notes` to contain notes specifically for trainers
+* `data` to store data
+* `docs` to output HTML files to
+* `images` contains the required images for the Project Light template
+* `img` contains default images for the materials
+* `templates` contains the template required for rendering in the style of UoC
+* `trainer_notes` to contain notes specifically for trainers
